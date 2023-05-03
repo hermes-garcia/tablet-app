@@ -1,8 +1,5 @@
 /*TODO global styles*/
 :root {
-    --platform-height: 30svh;
-    --initial-rocket-height: calc(var(--platform-height) - 7px);
-    --final-rocket-height: 60svh;
 }
 
 body {

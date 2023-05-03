@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100svw;
+    height: 100svh;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header {
+    display: block;
+}
+
+.footer {
+    display: block;
+}

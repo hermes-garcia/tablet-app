@@ -1,0 +1,20 @@
+.widgetWrapper {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: start;
+}
+
+.item {
+    padding: 10px;
+    border: 1px solid black;
+    height: 100%;
+    width: 520px;
+}
